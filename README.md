@@ -89,4 +89,4 @@ Future Enhancements
 Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
+License This project is open-source and available under the MIT License.
