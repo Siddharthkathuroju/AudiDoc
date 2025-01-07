@@ -1,5 +1,5 @@
 
-README Description for the Content Generation Project
+
 
 # Content Generation with Gemini API
 
