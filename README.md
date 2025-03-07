@@ -19,9 +19,7 @@ Features
 
 Tech Stack
 
-- **Frontend**: Next.js, React
-- **Styling**: Tailwind CSS
-- **Backend**: Node.js
+- **Frontend and Backened**: Next.js
 - **AI Model**: Gemini API
 - **PDF Generation**: jsPDF
 
