@@ -13,7 +13,7 @@ Features
 - **PDF Download**: The generated content can be converted to a PDF and downloaded for offline use.
 - **API Integration**: Utilizes the Gemini API (`gemini-2.0-flash-exp` model) for robust and accurate content generation.
 - **Modern Frontend**: Developed with Next.js for optimal performance and scalability.
-- **Tailored User Experience**: Intuitive UI for entering prompts and accessing generated content.
+- **Tailored User Experience**: Intuitive UI for entering prompts and accessing the generated content.
 
 ---
 
