@@ -25,7 +25,7 @@ Tech Stack
 
 ---
 
-How It Works
+How It Works: 
 
 1. **Input Text**: Users provide a text prompt through the application interface.
 2. **Content Generation**: The app sends the text input to the Gemini API to generate creative content.
