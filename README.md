@@ -7,7 +7,7 @@ This project is a web-based application that leverages the **Gemini API** to gen
 
 ---
 
-Features
+Features:
 
 - **Content Generation**: Users can input a text prompt, and the Gemini API generates creative content in response.
 - **PDF Download**: The generated content can be converted to a PDF and downloaded for offline use.
